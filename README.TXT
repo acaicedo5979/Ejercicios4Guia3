@@ -1,12 +1,9 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+EL PRESENTE TRABJO TIENE COMO FINALIDAD EL DESARROLLO DE LA SERIE DE
+EJERCICIOS NO. 4.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+SERIE DE EJERCICIOS NO. 4 
+FECHA: 19 DE MARZO DEE 2018
+AUTORES: ANDRES CUELLAR - CAMILO CAICEDO - CATALINA GOMEZ
+UNIVERSIDAD EAN 
